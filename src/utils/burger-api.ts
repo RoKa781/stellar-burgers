@@ -141,6 +141,7 @@ type TAuthResponse = TServerResponse<{
   refreshToken: string;
   accessToken: string;
   user: TUser;
+  message?: string;
 }>;
 
 export const registerUserApi = (data: TRegisterData) =>
