@@ -1,6 +1,7 @@
 {
   "name": "react-canonical",
   "version": "0.1.0",
+  "description": "https://github.com/RoKa781",
   "private": true,
   "dependencies": {
     "@reduxjs/toolkit": "^2.0.1",

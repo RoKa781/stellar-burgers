@@ -1,9 +1,7 @@
 import { FC, useMemo } from 'react';
 import { TConstructorIngredient } from '@utils-types';
 import { BurgerConstructorUI } from '@ui';
-import { useDispatch, useSelector } from 'react-redux';
 import {
-  clearConstructor,
   selectAddedBunDetails,
   selectAddedIngredients
 } from '../../services/slices/burgerConstructorSlice';
@@ -14,7 +12,7 @@ import {
   selectOrderData,
   selectOrderRequest
 } from '../../services/slices/burgerOrderSlice';
-import { AppDispatch } from 'src/services/store';
+import { AppDispatch, useDispatch, useSelector } from '../../services/store';
 import { useNavigate } from 'react-router-dom';
 import { selectUserData } from '../../services/slices/userSlice';
 
@@ -33,7 +31,7 @@ export const BurgerConstructor: FC = () => {
   const user = useSelector(selectUserData);
 
   const navigate = useNavigate();
-  const dispatch = useDispatch<AppDispatch>();
+  const dispatch = useDispatch();
 
   const constructorItems: TconstructorItems = {
     bun: addedBunDetails,

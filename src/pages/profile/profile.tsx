@@ -64,7 +64,3 @@ export const Profile: FC = () => {
 
   return null;
 };
-
-// fdsagdfgsdfgsd@mail.ru
-// gdfgdfgsdfgsdfgsdf
-// fsdfa

@@ -49,9 +49,7 @@ export const AppHeaderUI: FC<TAppHeaderUIProps> = ({ userName }) => (
             isActive ? styles.link_active : styles.link
           }
         >
-          <p className='text text_type_main-default ml-2'>
-            {userName || 'Личный кабинет'}
-          </p>
+          <p className='text text_type_main-default ml-2'>{userName}</p>
         </NavLink>
       </div>
     </nav>

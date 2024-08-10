@@ -1,4 +1,4 @@
-import { getFeedsApi, getOrdersApi } from '@api';
+import { getFeedsApi } from '@api';
 import { createAsyncThunk, createSlice } from '@reduxjs/toolkit';
 import { TOrder } from '@utils-types';
 
@@ -33,18 +33,36 @@ export const feedSlice = createSlice({
     selectOrders: (state) => state.orders,
     selectTotal: (state) => state.total,
     selectTotalToday: (state) => state.totalToday,
-    selectData: (state) => state
+    selectData: (state) => state,
+    selectFeedIsLoading: (state) => state.isLoading,
+    selectFeedError: (state) => state.error
   },
   extraReducers: (builder) => {
-    builder.addCase(getFeed.fulfilled, (state, action) => {
-      state.orders = action.payload.orders;
-      state.total = action.payload.total;
-      state.totalToday = action.payload.totalToday;
-    });
+    builder
+      .addCase(getFeed.pending, (state) => {
+        state.isLoading = true;
+        state.error = undefined;
+      })
+      .addCase(getFeed.fulfilled, (state, action) => {
+        state.orders = action.payload.orders;
+        state.total = action.payload.total;
+        state.totalToday = action.payload.totalToday;
+        state.isLoading = false;
+      })
+      .addCase(getFeed.rejected, (state, action) => {
+        state.isLoading = false;
+        state.error = action.payload as string;
+      });
   }
 });
 
 export const feedReducer = feedSlice.reducer;
-export const { selectOrders, selectTotal, selectTotalToday, selectData } =
-  feedSlice.selectors;
+export const {
+  selectOrders,
+  selectTotal,
+  selectTotalToday,
+  selectData,
+  selectFeedIsLoading,
+  selectFeedError
+} = feedSlice.selectors;
 export const { clearFeed } = feedSlice.actions;
