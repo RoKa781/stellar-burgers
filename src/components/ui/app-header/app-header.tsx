@@ -39,7 +39,7 @@ export const AppHeaderUI: FC<TAppHeaderUIProps> = ({ userName }) => (
         </>
       </div>
       <div className={styles.logo}>
-        <Logo className='' />
+        <Logo className={styles.burgerlogo} />
       </div>
       <div className={styles.link_position_last}>
         <ProfileIcon type={'primary'} />
