@@ -2,17 +2,17 @@ import { FC, useMemo } from 'react';
 import { TConstructorIngredient } from '@utils-types';
 import { BurgerConstructorUI } from '@ui';
 import {
+  clearConstructor,
   selectAddedBunDetails,
   selectAddedIngredients
 } from '../../services/slices/burgerConstructorSlice';
 import {
-  cleanConstructor,
   cleanOrderData,
   orderBurger,
   selectOrderData,
   selectOrderRequest
 } from '../../services/slices/burgerOrderSlice';
-import { AppDispatch, useDispatch, useSelector } from '../../services/store';
+import { useDispatch, useSelector } from '../../services/store';
 import { useNavigate } from 'react-router-dom';
 import { selectUserData } from '../../services/slices/userSlice';
 
@@ -54,7 +54,7 @@ export const BurgerConstructor: FC = () => {
       idIngredients.push(bun, bun);
     }
     dispatch(orderBurger(idIngredients)).then(() => {
-      dispatch(cleanConstructor());
+      dispatch(clearConstructor());
     });
   };
   const closeOrderModal = () => {

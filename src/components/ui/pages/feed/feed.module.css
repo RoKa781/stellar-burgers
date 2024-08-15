@@ -40,9 +40,9 @@
   font-size: clamp(2rem, 1.65rem + 1.75vw, 3.75rem);
   text-align: center;
   margin-top: 20px;
-  text-shadow: 2px 2px 8px rgba(0, 0, 0, 0.2); 
-  background: linear-gradient(135deg, #ff4d4d, #ff9999); 
-  background-clip: text; 
+  text-shadow: 2px 2px 8px rgba(0, 0, 0, 0.2);
+  background: linear-gradient(135deg, #ff4d4d, #ff9999);
+  background-clip: text;
   color: transparent;
 }
 
@@ -54,5 +54,5 @@
 }
 
 .refreshButton:hover {
-  transform: scale(1.05); 
+  transform: scale(1.05);
 }

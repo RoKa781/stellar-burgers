@@ -8,6 +8,7 @@ import {
   selectUserOrdersIsLoading
 } from '../../services/slices/userOrdersSlice';
 import { useDispatch, useSelector } from '../../services/store';
+import { Helmet } from 'react-helmet-async';
 
 export const ProfileOrders: FC = () => {
   const dispatch = useDispatch();
@@ -23,5 +24,12 @@ export const ProfileOrders: FC = () => {
 
   const orders: TOrder[] = useSelector(selectUserOrders);
 
-  return <ProfileOrdersUI orders={orders} isLoading={isLoading} />;
+  return (
+    <>
+      <Helmet>
+        <title>Ваши заказы</title>
+      </Helmet>
+      <ProfileOrdersUI orders={orders} isLoading={isLoading} />
+    </>
+  );
 };

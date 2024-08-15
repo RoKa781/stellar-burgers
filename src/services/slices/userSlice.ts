@@ -21,7 +21,7 @@ type TUserState = {
   isLoading: boolean;
 };
 
-const initialState: TUserState = {
+export const initialState: TUserState = {
   isAuthChecked: false,
   isAuthenticated: false,
   data: null,
@@ -144,6 +144,7 @@ export const userSlice = createSlice({
         state.data = action.payload;
         state.isAuthChecked = true;
         state.isLoading = false;
+        state.loginUserError = null;
       })
       .addCase(loginUser.rejected, (state, action) => {
         state.loginUserRequest = false;
@@ -195,3 +196,5 @@ export const {
   selectRegisterError,
   selectIsLoadingUser
 } = userSlice.selectors;
+
+export const userReducer = userSlice.reducer;

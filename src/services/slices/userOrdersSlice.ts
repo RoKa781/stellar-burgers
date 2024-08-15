@@ -8,7 +8,7 @@ type TUserOrderState = {
   error: string | undefined;
 };
 
-const initialState: TUserOrderState = {
+export const initialState: TUserOrderState = {
   userOrders: [],
   isLoading: false,
   error: undefined

@@ -10,6 +10,7 @@ import {
   selectOrders
 } from '../../services/slices/feedSlice';
 import styles from '../../components/ui/pages/feed/feed.module.css';
+import { Helmet } from 'react-helmet-async';
 
 export const Feed: FC = () => {
   const dispatch = useDispatch();
@@ -48,5 +49,12 @@ export const Feed: FC = () => {
       .catch(() => setHasLoaded(true));
   };
 
-  return <FeedUI orders={orders} handleGetFeeds={handleGetFeeds} />;
+  return (
+    <>
+      <Helmet>
+        <title>Лента заказов</title>
+      </Helmet>
+      <FeedUI orders={orders} handleGetFeeds={handleGetFeeds} />
+    </>
+  );
 };
