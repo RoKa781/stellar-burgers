@@ -1,0 +1,103 @@
+<svg width="49.003906" height="49.000000" viewBox="0 0 49.0039 49" fill="none" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+	<desc>
+			Created with Pixso.
+	</desc>
+	<defs>
+		<filter id="filter_2_814_dd" x="2.501465" y="0.000000" width="43.343994" height="49.000000" filterUnits="userSpaceOnUse" color-interpolation-filters="sRGB">
+			<feFlood flood-opacity="0" result="BackgroundImageFix"/>
+			<feBlend mode="normal" in="SourceGraphic" in2="BackgroundImageFix" result="shape"/>
+			<feGaussianBlur stdDeviation="1.33333" result="effect_layerBlur_1"/>
+		</filter>
+		<filter id="filter_2_815_dd" x="2.501465" y="0.000000" width="43.343994" height="49.000000" filterUnits="userSpaceOnUse" color-interpolation-filters="sRGB">
+			<feFlood flood-opacity="0" result="BackgroundImageFix"/>
+			<feBlend mode="normal" in="SourceGraphic" in2="BackgroundImageFix" result="shape"/>
+			<feGaussianBlur stdDeviation="1.33333" result="effect_layerBlur_1"/>
+		</filter>
+		<filter id="filter_2_818_dd" x="0.082764" y="19.500000" width="48.791992" height="17.013184" filterUnits="userSpaceOnUse" color-interpolation-filters="sRGB">
+			<feFlood flood-opacity="0" result="BackgroundImageFix"/>
+			<feBlend mode="normal" in="SourceGraphic" in2="BackgroundImageFix" result="shape"/>
+			<feGaussianBlur stdDeviation="1.33333" result="effect_layerBlur_1"/>
+		</filter>
+		<filter id="filter_2_819_dd" x="0.082764" y="19.500000" width="48.791992" height="17.013184" filterUnits="userSpaceOnUse" color-interpolation-filters="sRGB">
+			<feFlood flood-opacity="0" result="BackgroundImageFix"/>
+			<feBlend mode="normal" in="SourceGraphic" in2="BackgroundImageFix" result="shape"/>
+			<feGaussianBlur stdDeviation="1.33333" result="effect_layerBlur_1"/>
+		</filter>
+		<filter id="filter_2_822_dd" x="0.000000" y="14.000000" width="49.003906" height="12.000000" filterUnits="userSpaceOnUse" color-interpolation-filters="sRGB">
+			<feFlood flood-opacity="0" result="BackgroundImageFix"/>
+			<feBlend mode="normal" in="SourceGraphic" in2="BackgroundImageFix" result="shape"/>
+			<feGaussianBlur stdDeviation="1.33333" result="effect_layerBlur_1"/>
+		</filter>
+		<filter id="filter_2_823_dd" x="0.000000" y="14.000000" width="49.003906" height="12.000000" filterUnits="userSpaceOnUse" color-interpolation-filters="sRGB">
+			<feFlood flood-opacity="0" result="BackgroundImageFix"/>
+			<feBlend mode="normal" in="SourceGraphic" in2="BackgroundImageFix" result="shape"/>
+			<feGaussianBlur stdDeviation="1.33333" result="effect_layerBlur_1"/>
+		</filter>
+		<filter id="filter_2_833_dd" x="10.391113" y="2.314941" width="28.789307" height="44.185059" filterUnits="userSpaceOnUse" color-interpolation-filters="sRGB">
+			<feFlood flood-opacity="0" result="BackgroundImageFix"/>
+			<feBlend mode="normal" in="SourceGraphic" in2="BackgroundImageFix" result="shape"/>
+			<feGaussianBlur stdDeviation="1.33333" result="effect_layerBlur_1"/>
+		</filter>
+		<filter id="filter_2_841_dd" x="10.391113" y="2.314941" width="28.789307" height="44.185059" filterUnits="userSpaceOnUse" color-interpolation-filters="sRGB">
+			<feFlood flood-opacity="0" result="BackgroundImageFix"/>
+			<feBlend mode="normal" in="SourceGraphic" in2="BackgroundImageFix" result="shape"/>
+			<feGaussianBlur stdDeviation="1.33333" result="effect_layerBlur_1"/>
+		</filter>
+	</defs>
+	<g filter="url(#filter_2_814_dd)">
+		<path id="burger" d="M39.27 35.62C40.06 35.63 40.51 36.51 40.01 37.13C36.34 41.62 30.76 44.5 24.5 44.5C18.57 44.5 13.24 41.91 9.58 37.82C9.05 37.23 9.46 36.33 10.25 36.28C20.71 35.64 29.16 35.46 39.27 35.62ZM8.1 15.93C7.32 16.02 6.75 15.23 7.14 14.55C10.59 8.54 17.07 4.5 24.5 4.5C31.45 4.5 37.58 8.04 41.16 13.43C41.6 14.08 41.08 14.91 40.29 14.87C28.2 14.13 19.67 14.54 8.1 15.93Z" stroke="#4C4CFF" stroke-opacity="1.000000" stroke-width="1.000000" stroke-linejoin="round"/>
+	</g>
+	<g filter="url(#filter_2_815_dd)">
+		<path id="burger" d="M39.27 35.62C40.06 35.63 40.51 36.51 40.01 37.13C36.34 41.62 30.76 44.5 24.5 44.5C18.57 44.5 13.24 41.91 9.58 37.82C9.05 37.23 9.46 36.33 10.25 36.28C20.71 35.64 29.16 35.46 39.27 35.62ZM8.1 15.93C7.32 16.02 6.75 15.23 7.14 14.55C10.59 8.54 17.07 4.5 24.5 4.5C31.45 4.5 37.58 8.04 41.16 13.43C41.6 14.08 41.08 14.91 40.29 14.87C28.2 14.13 19.67 14.54 8.1 15.93Z" stroke="#4C4CFF" stroke-opacity="1.000000" stroke-width="1.000000" stroke-linejoin="round"/>
+	</g>
+	<path id="burger" d="M39.27 35.62C40.06 35.63 40.51 36.51 40.01 37.13C36.34 41.62 30.76 44.5 24.5 44.5C18.57 44.5 13.24 41.91 9.58 37.82C9.05 37.23 9.46 36.33 10.25 36.28C20.71 35.64 29.16 35.46 39.27 35.62ZM8.1 15.93C7.32 16.02 6.75 15.23 7.14 14.55C10.59 8.54 17.07 4.5 24.5 4.5C31.45 4.5 37.58 8.04 41.16 13.43C41.6 14.08 41.08 14.91 40.29 14.87C28.2 14.13 19.67 14.54 8.1 15.93Z" stroke="#4C4CFF" stroke-opacity="1.000000" stroke-width="1.000000" stroke-linejoin="round"/>
+	<path id="burger" d="M39.27 35.62C40.06 35.63 40.51 36.51 40.01 37.13C36.34 41.62 30.76 44.5 24.5 44.5C18.57 44.5 13.24 41.91 9.58 37.82C9.05 37.23 9.46 36.33 10.25 36.28C20.71 35.64 29.16 35.46 39.27 35.62ZM8.1 15.93C7.32 16.02 6.75 15.23 7.14 14.55C10.59 8.54 17.07 4.5 24.5 4.5C31.45 4.5 37.58 8.04 41.16 13.43C41.6 14.08 41.08 14.91 40.29 14.87C28.2 14.13 19.67 14.54 8.1 15.93Z" stroke="#FFFFFF" stroke-opacity="1.000000" stroke-width="0.500000" stroke-linejoin="round"/>
+	<g filter="url(#filter_2_818_dd)">
+		<path id="burger" d="M42.61 24.92C43.67 25.01 44.48 25.91 44.36 26.96C44.2 28.21 43.94 29.42 43.56 30.59C43.31 31.39 42.53 31.89 41.69 31.87C29.56 31.54 19.88 31.57 7.37 32.01C6.53 32.04 5.75 31.54 5.49 30.74C5.03 29.36 4.73 27.91 4.59 26.41C4.49 25.35 5.32 24.48 6.38 24.42C19.68 23.72 29.73 23.88 42.61 24.92Z" stroke="#E33CD5" stroke-opacity="1.000000" stroke-width="1.000000" stroke-linejoin="round"/>
+	</g>
+	<g filter="url(#filter_2_819_dd)">
+		<path id="burger" d="M42.61 24.92C43.67 25.01 44.48 25.91 44.36 26.96C44.2 28.21 43.94 29.42 43.56 30.59C43.31 31.39 42.53 31.89 41.69 31.87C29.56 31.54 19.88 31.57 7.37 32.01C6.53 32.04 5.75 31.54 5.49 30.74C5.03 29.36 4.73 27.91 4.59 26.41C4.49 25.35 5.32 24.48 6.38 24.42C19.68 23.72 29.73 23.88 42.61 24.92Z" stroke="#E33CD5" stroke-opacity="1.000000" stroke-width="1.000000" stroke-linejoin="round"/>
+	</g>
+	<path id="burger" d="M42.61 24.92C43.67 25.01 44.48 25.91 44.36 26.96C44.2 28.21 43.94 29.42 43.56 30.59C43.31 31.39 42.53 31.89 41.69 31.87C29.56 31.54 19.88 31.57 7.37 32.01C6.53 32.04 5.75 31.54 5.49 30.74C5.03 29.36 4.73 27.91 4.59 26.41C4.49 25.35 5.32 24.48 6.38 24.42C19.68 23.72 29.73 23.88 42.61 24.92Z" stroke="#E33CD5" stroke-opacity="1.000000" stroke-width="1.000000" stroke-linejoin="round"/>
+	<path id="burger" d="M42.61 24.92C43.67 25.01 44.48 25.91 44.36 26.96C44.2 28.21 43.94 29.42 43.56 30.59C43.31 31.39 42.53 31.89 41.69 31.87C29.56 31.54 19.88 31.57 7.37 32.01C6.53 32.04 5.75 31.54 5.49 30.74C5.03 29.36 4.73 27.91 4.59 26.41C4.49 25.35 5.32 24.48 6.38 24.42C19.68 23.72 29.73 23.88 42.61 24.92Z" stroke="#FFFFFF" stroke-opacity="1.000000" stroke-width="0.500000" stroke-linejoin="round"/>
+	<g filter="url(#filter_2_822_dd)">
+		<path id="path" d="M4.5 20C7.16 18 9.83 18 12.5 20C15.16 22 17.83 22 20.5 20C23.16 18 25.83 18 28.5 20C31.16 22 33.83 22 36.5 20C39.16 18 41.83 18 44.5 20" stroke="#00CCCC" stroke-opacity="1.000000" stroke-width="1.000000" stroke-linejoin="round" stroke-linecap="round"/>
+	</g>
+	<g filter="url(#filter_2_823_dd)">
+		<path id="path" d="M4.5 20C7.16 18 9.83 18 12.5 20C15.16 22 17.83 22 20.5 20C23.16 18 25.83 18 28.5 20C31.16 22 33.83 22 36.5 20C39.16 18 41.83 18 44.5 20" stroke="#00CCCC" stroke-opacity="1.000000" stroke-width="1.000000" stroke-linejoin="round" stroke-linecap="round"/>
+	</g>
+	<path id="path" d="M4.5 20C7.16 18 9.83 18 12.5 20C15.16 22 17.83 22 20.5 20C23.16 18 25.83 18 28.5 20C31.16 22 33.83 22 36.5 20C39.16 18 41.83 18 44.5 20" stroke="#00CCCC" stroke-opacity="1.000000" stroke-width="1.000000" stroke-linejoin="round" stroke-linecap="round"/>
+	<path id="path" d="M4.5 20C7.16 18 9.83 18 12.5 20C15.16 22 17.83 22 20.5 20C23.16 18 25.83 18 28.5 20C31.16 22 33.83 22 36.5 20C39.16 18 41.83 18 44.5 20" stroke="#FFFFFF" stroke-opacity="1.000000" stroke-width="0.500000" stroke-linejoin="round" stroke-linecap="round"/>
+	<g filter="url(#filter_2_833_dd)">
+		<ellipse id="Ellipse" rx="1.000000" ry="0.750000" transform="matrix(0.885492 0.464655 0.464655 -0.885492 17.7358 39.4814)" stroke="#4C4CFF" stroke-opacity="1.000000" stroke-width="1.000000"/>
+		<ellipse id="Ellipse" rx="1.500000" ry="1.000000" transform="matrix(0.965926 0.258819 -0.258819 0.965926 33.2097 10.854)" stroke="#4C4CFF" stroke-opacity="1.000000" stroke-width="1.000000"/>
+		<ellipse id="Ellipse" rx="1.000000" ry="0.750000" transform="matrix(0.965926 -0.258819 -0.258819 -0.965926 30.6619 39.4834)" stroke="#4C4CFF" stroke-opacity="1.000000" stroke-width="1.000000"/>
+		<ellipse id="Ellipse" rx="1.500000" ry="1.000000" transform="matrix(-1 8.74228e-08 -8.74228e-08 -1 23.002 11.5)" stroke="#4C4CFF" stroke-opacity="1.000000" stroke-width="1.000000"/>
+		<ellipse id="Ellipse" rx="1.500000" ry="1.000000" transform="matrix(0.965926 0.258819 -0.258819 0.965926 27.2097 7.854)" stroke="#4C4CFF" stroke-opacity="1.000000" stroke-width="1.000000"/>
+		<ellipse id="Ellipse" rx="1.000000" ry="0.750000" transform="matrix(1 0 0 -1 24.502 41.25)" stroke="#4C4CFF" stroke-opacity="1.000000" stroke-width="1.000000"/>
+		<ellipse id="Ellipse" rx="1.500000" ry="1.000000" transform="matrix(0.885492 -0.464655 0.464655 0.885492 16.2947 10.0825)" stroke="#4C4CFF" stroke-opacity="1.000000" stroke-width="1.000000"/>
+	</g>
+	<g filter="url(#filter_2_841_dd)">
+		<ellipse id="Ellipse" rx="1.000000" ry="0.750000" transform="matrix(0.885492 0.464655 0.464655 -0.885492 17.7358 39.4814)" stroke="#4C4CFF" stroke-opacity="1.000000" stroke-width="1.000000"/>
+		<ellipse id="Ellipse" rx="1.500000" ry="1.000000" transform="matrix(0.965926 0.258819 -0.258819 0.965926 33.2097 10.854)" stroke="#4C4CFF" stroke-opacity="1.000000" stroke-width="1.000000"/>
+		<ellipse id="Ellipse" rx="1.000000" ry="0.750000" transform="matrix(0.965926 -0.258819 -0.258819 -0.965926 30.6619 39.4834)" stroke="#4C4CFF" stroke-opacity="1.000000" stroke-width="1.000000"/>
+		<ellipse id="Ellipse" rx="1.500000" ry="1.000000" transform="matrix(-1 8.74228e-08 -8.74228e-08 -1 23.002 11.5)" stroke="#4C4CFF" stroke-opacity="1.000000" stroke-width="1.000000"/>
+		<ellipse id="Ellipse" rx="1.500000" ry="1.000000" transform="matrix(0.965926 0.258819 -0.258819 0.965926 27.2097 7.854)" stroke="#4C4CFF" stroke-opacity="1.000000" stroke-width="1.000000"/>
+		<ellipse id="Ellipse" rx="1.000000" ry="0.750000" transform="matrix(1 0 0 -1 24.502 41.25)" stroke="#4C4CFF" stroke-opacity="1.000000" stroke-width="1.000000"/>
+		<ellipse id="Ellipse" rx="1.500000" ry="1.000000" transform="matrix(0.885492 -0.464655 0.464655 0.885492 16.2947 10.0825)" stroke="#4C4CFF" stroke-opacity="1.000000" stroke-width="1.000000"/>
+	</g>
+	<ellipse id="Ellipse" rx="1.000000" ry="0.750000" transform="matrix(0.885492 0.464655 0.464655 -0.885492 17.7358 39.4814)" stroke="#4C4CFF" stroke-opacity="1.000000" stroke-width="1.000000"/>
+	<ellipse id="Ellipse" rx="1.500000" ry="1.000000" transform="matrix(0.965926 0.258819 -0.258819 0.965926 33.2097 10.854)" stroke="#4C4CFF" stroke-opacity="1.000000" stroke-width="1.000000"/>
+	<ellipse id="Ellipse" rx="1.000000" ry="0.750000" transform="matrix(0.965926 -0.258819 -0.258819 -0.965926 30.6619 39.4834)" stroke="#4C4CFF" stroke-opacity="1.000000" stroke-width="1.000000"/>
+	<ellipse id="Ellipse" rx="1.500000" ry="1.000000" transform="matrix(-1 8.74228e-08 -8.74228e-08 -1 23.002 11.5)" stroke="#4C4CFF" stroke-opacity="1.000000" stroke-width="1.000000"/>
+	<ellipse id="Ellipse" rx="1.500000" ry="1.000000" transform="matrix(0.965926 0.258819 -0.258819 0.965926 27.2097 7.854)" stroke="#4C4CFF" stroke-opacity="1.000000" stroke-width="1.000000"/>
+	<ellipse id="Ellipse" rx="1.000000" ry="0.750000" transform="matrix(1 0 0 -1 24.502 41.25)" stroke="#4C4CFF" stroke-opacity="1.000000" stroke-width="1.000000"/>
+	<ellipse id="Ellipse" rx="1.500000" ry="1.000000" transform="matrix(0.885492 -0.464655 0.464655 0.885492 16.2947 10.0825)" stroke="#4C4CFF" stroke-opacity="1.000000" stroke-width="1.000000"/>
+	<ellipse id="Ellipse" rx="1.000000" ry="0.750000" transform="matrix(0.885492 0.464655 0.464655 -0.885492 17.7358 39.4814)" stroke="#FFFFFF" stroke-opacity="1.000000" stroke-width="0.500000"/>
+	<ellipse id="Ellipse" rx="1.500000" ry="1.000000" transform="matrix(0.965926 0.258819 -0.258819 0.965926 33.2097 10.854)" stroke="#FFFFFF" stroke-opacity="1.000000" stroke-width="0.500000"/>
+	<ellipse id="Ellipse" rx="1.000000" ry="0.750000" transform="matrix(0.965926 -0.258819 -0.258819 -0.965926 30.6619 39.4834)" stroke="#FFFFFF" stroke-opacity="1.000000" stroke-width="0.500000"/>
+	<ellipse id="Ellipse" rx="1.500000" ry="1.000000" transform="matrix(-1 8.74228e-08 -8.74228e-08 -1 23.002 11.5)" stroke="#FFFFFF" stroke-opacity="1.000000" stroke-width="0.500000"/>
+	<ellipse id="Ellipse" rx="1.500000" ry="1.000000" transform="matrix(0.965926 0.258819 -0.258819 0.965926 27.2097 7.854)" stroke="#FFFFFF" stroke-opacity="1.000000" stroke-width="0.500000"/>
+	<ellipse id="Ellipse" rx="1.000000" ry="0.750000" transform="matrix(1 0 0 -1 24.502 41.25)" stroke="#FFFFFF" stroke-opacity="1.000000" stroke-width="0.500000"/>
+	<ellipse id="Ellipse" rx="1.500000" ry="1.000000" transform="matrix(0.885492 -0.464655 0.464655 0.885492 16.2947 10.0825)" stroke="#FFFFFF" stroke-opacity="1.000000" stroke-width="0.500000"/>
+</svg>
